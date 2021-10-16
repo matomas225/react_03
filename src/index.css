@@ -7,5 +7,5 @@
   padding: 0;
 }
 body {
-  @apply bg-gray-800;
+  @apply bg-gradient-to-r from-purple-900 to-pink-900;
 }
